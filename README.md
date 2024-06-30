@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **TA Allocation Platform for my college**
 
-- 🌱 I’m currently learning **Contanerization and Mastering Backend Technologies**
+- 🌱 I’m currently learning 3D Web Design**
 
 - 💬 Ask me about **React, System Design.**
 
